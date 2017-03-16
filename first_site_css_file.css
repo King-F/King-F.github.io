@@ -1,0 +1,52 @@
+body{
+	background-color: #232323;
+	max-width: 600px;
+	color: white;
+	margin: 0 auto;
+}
+div {
+	height: 250px;
+	background-size: cover;
+	position: relative;
+	margin: 40px 0 40px 0;
+	border-radius: 12px;
+}
+p {
+	color: rgba(255,150,240,.5);
+	background: rgba(0,0,0,.75);
+	padding: 10px;
+	line-height: 28px;
+	text-align: justify;
+	position: absolute;
+	top: 0;
+	margin: 0;
+}
+.main-header{
+	text-align: center;
+	background: url("http://www.drodd.com/images13/world-map17.jpg");
+	background-size: cover;
+	color: white;
+}
+
+.France{
+	background-image: url("http://media.gettyimages.com/photos/sunrise-at-the-eiffel-tower-paris-picture-id578127555?s=170667a");
+}
+.Italy{
+	background-image: url("http://media.gettyimages.com/photos/sunrise-roman-forum-rome-italy-picture-id582021521?s=170667a");
+}
+.Holland{
+	background-image: url("http://media.gettyimages.com/photos/windmills-at-sunset-in-kinderdijk-picture-id488529751?s=170667a");
+}
+.Germany{
+	background-image: url("http://media.gettyimages.com/photos/hohenzollern-bridge-over-rhine-river-against-cologne-cathedral-picture-id673708373?s=170667a");
+}
+.UnitedStates{
+	background-image: url("http://media.gettyimages.com/photos/idyllic-shot-of-mt-rainier-with-trees-reflection-in-lake-at-night-picture-id674482403?s=170667a");
+}
+
+.Computer{
+	background-image: url("http://media.gettyimages.com/photos/laptop-in-typesetting-shop-picture-id670885897?s=170667a");
+}
+.Australia{
+	background-image: url("http://media.gettyimages.com/photos/sydney-harbour-picture-id56516254?s=170667a");
+}
